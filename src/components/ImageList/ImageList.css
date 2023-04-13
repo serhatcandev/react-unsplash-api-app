@@ -1,0 +1,23 @@
+.rendered-images {
+	display: flex;
+	align-items: center;
+	flex-wrap: wrap;
+	margin: 2rem 2rem;
+}
+
+.rendered-images .image-show img {
+	width: auto;
+	padding: 10px;
+	height: 300px;
+}
+@media screen and (max-width: 992px) {
+	.rendered-images {
+		display: grid;
+		grid-template-columns: repeat(1, 1fr);
+	}
+
+	.rendered-images .image-show img {
+		width: 100%;
+		height: 100%;
+	}
+}
