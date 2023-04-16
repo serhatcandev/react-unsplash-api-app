@@ -2,7 +2,7 @@
 
 🔵 Serhat Can
 
-🔵 12.02.2023 - 14.04.2023
+🔵 12.04.2023 - 14.04.2023
 
 🔵 Demo: https://react-unsplash-api-app.vercel.app/
 
